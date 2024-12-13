@@ -3,7 +3,7 @@ Bounty Ratings is page that allow you to track and choose best self hosted bug b
 
 
 
-| Program Name  | Short Scope Description | Link To Page | Rating | Discusion Page |
+| Program Name  | Short Scope Description | Link To Page                        | Rating | Discusion Page |
 | ------------- | ------------- |
-| hummgroup  | Huge  | https://www.shophumm.com/humm-group/security/ | RED | None |
-| Content Cell  | Content Cell  |
+| hummgroup      | Huge         | https://www.shophumm.com/humm-group/security/ | RED    | None |
+
