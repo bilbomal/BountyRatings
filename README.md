@@ -1,5 +1,5 @@
 # Bounty Ratings
-Bounty Ratings is a platform that allows you to track and choose the best self-hosted bug bounty programs, offering good payouts and fast response times.
+Bounty Ratings is a page that allows you to track and choose the best self-hosted bug bounty programs, offering good payouts and fast response times.
 
 
 | Program Name | Short Scope Description    | Link To Policy    | Rating   | Discusion Page |
