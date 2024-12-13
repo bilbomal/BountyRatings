@@ -4,4 +4,4 @@ Bounty Ratings is page that allow you to track and choose best self hosted bug b
 
 | Program Name | Short Scope Description    | Link To Policy    | Rating   | Discusion Page |
 | :---:   | :---: | :---: | :---:   | :---: |
-| hummgroup | Huge   | [283](https://www.shophumm.com/humm-group/security/)   | RED | [Discuss](https://github.com/bilbomal/BountyRatings/issues/1) |
+| hummgroup | Huge   | [Policy](https://www.shophumm.com/humm-group/security/)   | RED | [Discuss](https://github.com/bilbomal/BountyRatings/issues/1) |
