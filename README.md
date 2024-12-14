@@ -22,3 +22,4 @@ The next three colors in this column represent First Response, Communication, an
 | :---:   | :---: | :---: | :---:   | :---: |
 | hummgroup | Huge   | [Policy](https://www.shophumm.com/humm-group/security/)   | 🔴 GREEN - RED - RED | [Discuss](https://github.com/bilbomal/BountyRatings/issues/1) |
 | Walmart | Huge   | [Policy](https://corporate.walmart.com/article/responsible-disclosure-policy)   | 🟢 GREEN - GREEN - GREEN | [Discuss](https://github.com/bilbomal/BountyRatings/issues/2) |
+| LiquidWeb | Limited   | [Policy](https://www.liquidweb.com/policies/bug-bounty-program/)   | 🟢 GREEN - GREEN - GREEN | [Discuss](https://github.com/bilbomal/BountyRatings/issues/3) |
